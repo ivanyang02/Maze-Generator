@@ -16,7 +16,7 @@ Mazes of size 50 by 50 or more have better results.
 3. Enter attempted number of rooms.<br />
 The code will loop the inputted number of times and attempt to place a room somewhere in the dungeon. 
 If there is already an existing room at that location, it will give up that attempt.
-4. Enter 0 for full maze, 1 for reduced dungeon
+4. Enter 0 for full maze, 1 for reduced dungeon<br />
 Entering 0 will cause the code to end once the maze is generated. Entering 1 will make the code reduce the amount of paths and dead ends, to make it more like a dungeon connected by paths instead of a dungeon in a maze.
 
 The code will then create the dungeon and print out a string of characters that corresponds to it.
